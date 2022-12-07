@@ -2,7 +2,7 @@ import {disableFilters} from './page.js';
 import {showAlertError} from './util.js';
 
 const GET_DATA_URL = 'https://27.javascript.pages.academy/keksobooking/data';
-const SEND_DATA_URL = 'https://27.javascript.pages.academy/keksobookin';
+const SEND_DATA_URL = 'https://27.javascript.pages.academy/keksobooking';
 
 /**
  * Загрузка похожих объявлений с сервера
